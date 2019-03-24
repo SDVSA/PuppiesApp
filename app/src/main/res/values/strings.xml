@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">Puppies</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
     <string name="nav_header_title">My Puppies</string>
     <string name="nav_header_subtitle">Animal welfare</string>
-    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
     <string name="action_settings">Settings</string>
 </resources>
