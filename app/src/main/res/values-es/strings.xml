@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cachorritos</string>
+    <string name="nav_header_subtitle">Bienestar de los animales</string>
+    <string name="action_settings">Configuración</string>
+    <string name="nav_header_title">Mis Cachorritos</string>
+</resources>
